@@ -47,11 +47,11 @@
 <div align="center">
 
   <a href="https://github.com/False10101">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=False10101&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" />
   </a>
 
-  <a href="https://github.com/YOUR_USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C" />
+  <a href="https://github.com/False10101">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=False10101&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C" />
   </a>
 
 </div>
@@ -60,7 +60,7 @@
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakNum=00FF9C" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=False10101&theme=radical&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakNum=00FF9C" alt="Streak Stats" />
 
 </div>
 
