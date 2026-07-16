@@ -20,7 +20,7 @@
 <br>
 
 <div align="left" style="font-family: sans-serif; font-size: 15px; color: #dcdcdc; line-height: 1.8;">
-I am a <b>Computer Science Student (Year 3)</b> at <b>KMUTT</b>. <br>
+I am a <b>Computer Science Student (Year 4)</b> at <b>KMUTT</b>. <br>
 My work bridges the gap between complex <span style="color: #5a189a;"><b>Backend Logic</b></span> and responsive <span style="color: #5a189a;"><b>Frontend Design</b></span>. <br>
 Currently running on <span style="color: #3c096c;">caffeine</span> and <span style="color: #3c096c;">legacy hardware</span>.
 </div>
